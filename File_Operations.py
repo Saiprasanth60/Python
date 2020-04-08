@@ -21,6 +21,7 @@ But in second method using with it automatically closes the file
 #  print(name_of_file)
 # print(name_of_file.closed) #This is used to check weather the file is closed or not
 
+
 ''' Reading:
         1.read - Will read the complete content in the file at a time.
         2.readline - It will read the content 1 line at a time
@@ -86,3 +87,4 @@ with open("/Users/prasanthinavolu/Desktop/Python/asdf.csv","a") as file:
  writer.writerows([['5','Ma','25','2172181024'],['6','Bujjji','24','2177909726']])
 
 
+BNM<MNsldfkkcdskds
